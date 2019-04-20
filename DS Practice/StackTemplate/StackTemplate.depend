@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1543033865 source:d:\muhammadtalib\data structures\ds practice\stacktemplate\main.cpp
+	<iostream>
+	<vector>
+	<cstdlib>
+	<string>
+	<stdexcept>
+

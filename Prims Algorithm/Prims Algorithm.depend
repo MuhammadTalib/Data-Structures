@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1541964326 source:c:\users\muhammad talib\desktop\prims algorithm\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+

@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1543038258 source:d:\muhammadtalib\data structures\ds practice\linkedlisttemplate\linkedlist.cpp
+	"LinkedList.h"
+
+1543038263 source:d:\muhammadtalib\data structures\ds practice\linkedlisttemplate\main.cpp
+	<iostream>
+	<stdlib.h>
+	"LinkedList.h"
+	"LinkedList.cpp"
+
+1543038251 d:\muhammadtalib\data structures\ds practice\linkedlisttemplate\linkedlist.h
+	<iostream>
+	<stdlib.h>
+
+1543038258 d:\muhammadtalib\data structures\ds practice\linkedlisttemplate\linkedlist.cpp
+	"LinkedList.h"
+

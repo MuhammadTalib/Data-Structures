@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1539450933 source:c:\talib\data structures\n-ary_tree\main.cpp
+	<iostream>
+	<stdlib.h>
+

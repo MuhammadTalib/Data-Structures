@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1536377963 source:d:\data structures\multilinked\main.cpp
+	<stdlib.h>
+	<string>
+	<string.h>
+	<iostream>
+	"Class.h"
+
+1536378055 source:d:\data structures\multilinked\class.cpp
+	"Class.h"
+
+1536378113 d:\data structures\multilinked\class.h
+	<stdlib.h>
+	<string>
+	<string.h>
+	<iostream>
+

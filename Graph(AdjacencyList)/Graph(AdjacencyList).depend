@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1541352897 source:d:\muhammadtalib\data structures\graph(adjacencylist)\main.cpp
+	<iostream>
+	<stdlib.h>
+	"Queue.h"
+
+1541334657 d:\muhammadtalib\data structures\graph(adjacencylist)\queue.h
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+

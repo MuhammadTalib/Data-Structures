@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1542036509 source:d:\muhammadtalib\data structures\linked_list_class\main.cpp
+	<iostream>
+	"Node.h"
+	"list.h"
+	"Point.h"
+
+1542036635 d:\muhammadtalib\data structures\linked_list_class\include\node.h
+	<iostream>
+
+1541524898 d:\muhammadtalib\data structures\linked_list_class\include\list.h
+	<iostream>
+	"Node.h"
+
+1542036635 d:\muhammadtalib\data structures\linked_list_class\include\point.h
+	<iostream>
+	"Node.h"
+
+1541524905 source:d:\muhammadtalib\data structures\linked_list_class\src\list.cpp
+
+1541524908 source:d:\muhammadtalib\data structures\linked_list_class\src\node.cpp
+
+1541524933 source:d:\muhammadtalib\data structures\linked_list_class\src\point.cpp
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1536383163 source:d:\data structures\curcular linked list\main.cpp
+	<iostream>
+	<stdlib.h>
+
